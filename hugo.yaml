@@ -1,0 +1,40 @@
+baseURL: http://eaguil.com
+languageCode: en-us
+title: Evan Aguilar
+theme: ["PaperMod"]
+
+params:
+  homeInfoParams:
+    Title: Welcome!
+    Content: This space is dedicated to exploring my interests, hobbies, and the things that make me tick. Here, you’ll find my writings on IT, thoughts on productivity, workflows that keep me efficient, and insights into my numerous hobbies. Whether you're here to dive into tech musings or just to learn more about my awesome dog, Oli, there's plenty to explore. Take a look around and enjoy the journey with me!
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/aguilev03"
+    - name: "linkedin"
+      url: "https://linkedin.com"
+  mainSections:
+    - post
+    - docs    
+  ShowBreadCrumbs: true
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+
+menu:
+  main:
+    - identifier: about
+      name: About Me
+      url: /about
+      weight: 10
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 20
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 30
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 40

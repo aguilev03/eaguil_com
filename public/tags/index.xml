@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Evan Aguilar</title>
+    <link>http://eaguil.com/tags/</link>
+    <description>Recent content in Tags on Evan Aguilar</description>
+    <generator>Hugo -- 0.136.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Oct 2024 19:48:38 -0500</lastBuildDate>
+    <atom:link href="http://eaguil.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Homelab</title>
+      <link>http://eaguil.com/tags/homelab/</link>
+      <pubDate>Sun, 20 Oct 2024 19:48:38 -0500</pubDate>
+      <guid>http://eaguil.com/tags/homelab/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lenovo</title>
+      <link>http://eaguil.com/tags/lenovo/</link>
+      <pubDate>Sun, 20 Oct 2024 19:48:38 -0500</pubDate>
+      <guid>http://eaguil.com/tags/lenovo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Networking</title>
+      <link>http://eaguil.com/tags/networking/</link>
+      <pubDate>Sun, 20 Oct 2024 19:48:38 -0500</pubDate>
+      <guid>http://eaguil.com/tags/networking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>P520</title>
+      <link>http://eaguil.com/tags/p520/</link>
+      <pubDate>Sun, 20 Oct 2024 19:48:38 -0500</pubDate>
+      <guid>http://eaguil.com/tags/p520/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Servers</title>
+      <link>http://eaguil.com/tags/servers/</link>
+      <pubDate>Sun, 20 Oct 2024 19:48:38 -0500</pubDate>
+      <guid>http://eaguil.com/tags/servers/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>P520 on Evan Aguilar</title>
+    <link>http://eaguil.com/tags/p520/</link>
+    <description>Recent content in P520 on Evan Aguilar</description>
+    <generator>Hugo -- 0.136.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Oct 2024 19:48:38 -0500</lastBuildDate>
+    <atom:link href="http://eaguil.com/tags/p520/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Homelab: Building My Own Tech Playground</title>
+      <link>http://eaguil.com/post/my_server/</link>
+      <pubDate>Sun, 20 Oct 2024 19:48:38 -0500</pubDate>
+      <guid>http://eaguil.com/post/my_server/</guid>
+      <description>Exploring the setup and software in my homelab.</description>
+    </item>
+  </channel>
+</rss>

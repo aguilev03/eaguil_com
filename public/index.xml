@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Evan Aguilar</title>
+    <link>http://eaguil.com/</link>
+    <description>Recent content on Evan Aguilar</description>
+    <generator>Hugo -- 0.136.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Oct 2024 20:15:16 -0500</lastBuildDate>
+    <atom:link href="http://eaguil.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://eaguil.com/about/</link>
+      <pubDate>Sun, 20 Oct 2024 20:15:16 -0500</pubDate>
+      <guid>http://eaguil.com/about/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://eaguil.com/me_and_oli.jpg&#34; alt=&#34;Oli and I&#34;  /&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;hey-there&#34;&gt;Hey there!&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;m Evan, a tech enthusiast and lifelong learner who&amp;rsquo;s always curious about how things work. By day, I dive deep into IT and business, but outside of that, I&amp;rsquo;m constantly exploring new hobbies and interests. Whether tinkering with the latest tech, finding new ways to streamline my workflows, or getting lost in a good philosophy book, I love pushing my boundaries and learning something new.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Homelab: Building My Own Tech Playground</title>
+      <link>http://eaguil.com/post/my_server/</link>
+      <pubDate>Sun, 20 Oct 2024 19:48:38 -0500</pubDate>
+      <guid>http://eaguil.com/post/my_server/</guid>
+      <description>Exploring the setup and software in my homelab.</description>
+    </item>
+  </channel>
+</rss>
